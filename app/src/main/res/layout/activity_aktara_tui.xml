@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Aktara_tui">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="একতারা তুই দেশের কথা"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="388dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+একতারা তুই দেশের কথা\n
+বলরে এবার বল\n
+আমাকে তুই বাউল করে, সঙ্গে নিয়ে চল\n
+জীবন মরণ মাঝে, তোর সুর যেন বাজে।।\n\n
+
+একটি কথা আমি শুধু বলে যেতে চাই\n
+বাংলা আমার সুখে-দুখে হয় যেন গো ঠাই রে।।\n\n
+
+একটি গান আমি শুধু গেয়ে যেতে চাই\n
+বাংলা আমার, আমি যে তার\n
+আর তো চাওয়া নাই রে।।\n\n
+
+প্রাণের প্রিয় তুমি, মোর সাধের জন্মভূমি\n
+তোমায় বরণ করে\n
+যেন যেতে পারি মরে।।\n\n
+" />
+
+        </LinearLayout>
+</HorizontalScrollView>
+    </ScrollView>
+
+
+</RelativeLayout>

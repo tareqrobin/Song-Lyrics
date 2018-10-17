@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sobkota_janala">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="সবকটা জানালা খুলে দাওনা"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="396dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+সবকটা জানালা খুলে দাওনা
+আমি গাইব গাইব বিজয়েরই গান
+ওরা আসবে চুপি চুপি যারা এই দেশটাকে
+ভালোবেসে দিয়ে গেছে প্রাণ।।
+
+চোখ থেকে মুছে ফেল অশ্রুটুকু
+এমন খুশির দিনে কাঁদতে নেই
+হারানো স্মৃতি বেদনাতে
+একাকার করে মন ডাক দিলে
+ওরা আসবে চুপি চুপি যারা এই দেশটাকে
+কেউ যেন ভুল করে গেয়নাক
+মন ভাঙা গান।।
+
+আজ আমি সারানিশি থাকব জেগে
+ঘরের আলো সব আঁধার করে।
+তৈরি রাখব আতর গোলাপ
+এদেশের প্রতিটি ঘরে ঘরে
+ওরা আসবে চুপি চুপি যারা এই দেশটাকে
+কেউ যেন ভুল করে গেয়নাক
+মন ভাঙা গান।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sei_rail_line">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="সেই রেল লাইনের ধারে"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+সেই রেল লাইনের ধারে মেঠো পথটার পাড়ে দাড়িয়ে
+এক মধ্যবয়সী নারী এখনো রয়েছে হাত বাড়িয়ে
+খোকা ফিরবে,ঘরে ফিরবে
+কবে ফিরবে,নাকি ফিরবে না ।
+
+দৃষ্টি থেকে তার বৃষ্টি গেছে কবে শুকিয়ে
+সে তো অশ্রু মুছেনা আর গোপনে আঁচলে মুখ লুকিয়ে
+শুধু শূণ্যে চেয়ে থাকে যেন আকাশের সীমা ছাড়িয়ে
+খোকা ফিরবে,ঘরে ফিরবে
+কবে ফিরবে,নাকি ফিরবে না ।
+
+দস্যি ছেলে সেই যুদ্ধে গেল ফিরলো না আর
+আজো শূণ্য হৃদয়ে তার গুমড়ে গুমড়ে যায় হাহাকার
+খোকা আসবে,ঘরে আসবে যেন মরণের সীমা ছাড়িয়ে
+খোকা ফিরবে,ঘরে ফিরবে
+কবে ফিরবে,নাকি ফিরবে না ।
+" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

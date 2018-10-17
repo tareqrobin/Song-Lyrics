@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ogo_bristy">
+
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="ওগো বৃষ্টি আমার"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="375dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="ওগো বৃষ্টি আমার চোখের
+    পাতা ছুয়ো না,
+    আমার এতো সাধের কান্নার দাগ
+    ধুয়ো না,
+    সে যেন এসে দেখে,
+    পথ চেয়ে তার কেমন করে কেঁদেছি ।।
+    দোহাই গানের বীণা,
+    মনকে ভরে তুলো না, ।।
+    দেখেই তাকে ব্যথার এ গান ভুলো না,
+    সে যেন এসে শোনে,
+    তার বিরহে কী সুর আমি সেধেছি ।।
+    ক্লান্ত প্রদীপ ওগো,
+    হঠাৎ আলোয় ফুটো না,।।
+    দেখেই তাকে উজল হয়ে উঠো না,
+    সে যেন এসে জানে,
+    কোন আঁধারে এ রাত আমি বেঁধেছি ।।" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

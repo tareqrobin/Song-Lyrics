@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bridhashrom">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="380dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:text=" ছেলে আমার মস্ত মানুষ, মস্ত অফিসার\n
+মস্ত ফ্ল্যাটে যায় না দেখা এপার ওপার।\n
+নানান রকম জিনিস আর আসবাব দামী দামী\n
+সবচেয়ে কম দামী ছিলাম একমাত্র আমি।\n
+ছেলের আমার আমার প্রতি অগাধ সম্ভ্রম\n
+আমার ঠিকানা তাই বৃদ্ধাশ্রম!\n\n
+আমার ব্যবহারের সেই আলমারি আর আয়না\n
+ওসব নাকি বেশ পুরনো, ফ্ল্যাটে রাখা যায় না।\n
+ওর বাবার ছবি, ঘড়ি-ছড়ি, বিদেয় হলো তাড়াতাড়ি\n
+ছেড়ে দিলো, কাকে খেলো, পোষা বুড়ো ময়না।\n
+স্বামী-স্ত্রী আর আ্যালসেশিয়ান – জায়গা বড়ই কম\n
+আমার ঠিকানা তাই বৃদ্ধাশ্রম!\n\n
+নিজের হাতে ভাত খেতে পারতো নাকো খোকা\n
+বলতাম আমি না থাকলে কী করবি রে বোকা?\n
+ঠোঁট ফুলিয়ে কাঁদতো খোকা আমার কথা শুনে-\n
+খোকা বোধ হয় আর কাঁদে না, নেই বুঝি আর মনে।\n
+ছোট্টবেলায় স্বপ্ন দেখে উঠতো খোকা কেঁদে\n
+দু’হাত দিয়ে বুকের কাছে রেখে দিতাম বেঁধে\n
+দু’হাত আজো খুঁজে, ভুলে যায় যে একদম-\n
+আমার ঠিকানা এখন বৃদ্ধাশ্রম!\n\n
+খোকারও হয়েছে ছেলে, দু’বছর হলো\n
+তার তো মাত্র বয়স পঁচিশ, ঠাকুর মুখ তোলো।\n
+একশো বছর বাঁচতে চাই এখন আমার সাধ\n
+পঁচিশ বছর পরে খোকার হবে ঊনষাট।\n
+আশ্রমের এই ঘরটা ছোট, জায়গা অনেক বেশি-\n
+খোকা-আমি দু’জনেতে থাকবো পাশাপাশি।\n
+সেই দিনটার স্বপ্ন দেখি ভীষণ রকম\n
+মুখোমুখি আমি, খোকা আর বৃদ্ধাশ্রম!\n
+মুখোমুখি আমি, খোকা আর বৃদ্ধাশ্রম!\n
+মুখোমুখি আমি, খোকা আর বৃদ্ধাশ্রম!\n\n
+-------------------------------------------------"
+                android:textSize="17sp" />
+
+        </LinearLayout>
+</HorizontalScrollView>
+    </ScrollView>
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/Silver"
+        android:textColor="@color/Brown"
+        android:text="বৃদ্ধাশ্রম"
+        android:textSize="30dp" />
+
+
+</RelativeLayout>

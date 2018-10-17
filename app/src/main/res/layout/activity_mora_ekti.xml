@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mora_ekti">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="মোরা একটি ফুলকে"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+মোরা একটি ফুলকে বাঁচাবো বলে যুদ্ধ করি
+মোরা একটি মুখের হাসির জন্য অস্ত্র ধরি।।
+
+যে মাটির চির মমতা আমার অঙ্গে মাখা
+যার নদী জল ফুলে ফুলে মোর স্বপ্ন আঁকা।
+যে দেশের নীল অম্বরে মন মেলছে পাখা
+সারাটি জনম সে মাটির টানে অস্ত্র ধরি।।
+
+মোরা নতুন একটি কবিতা লিখতে যুদ্ধ করি―
+মোরা নতুন একটি গানের জন্য যুদ্ধ করি
+মোরা একখানা ভালো ছবির জন্য যুদ্ধ করি
+মোরা সারা বিশ্বের শান্তি বাঁচাতে আজকে লড়ি।।
+
+যে নারীর মধু প্রেমেতে আমার রক্ত দোলে
+যে শিশুর মায়া হাসিতে আমার বিশ্ব ভোলে
+যে গৃহ কপোত সুখ স্বর্গের দুয়ার খোলে
+সেই শান্তির শিবির বাঁচাতে শপথ করি।।
+
+মোরা একটি ফুলকে বাঁচাবো বলে যুদ্ধ করি
+মোরা একটি মুখের হাসির জন্য অস্ত্র ধরি।।
+" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>
+
+
+
+

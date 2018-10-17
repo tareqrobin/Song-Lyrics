@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">SONG LYRICS</string>
+
+    <string name="screen"><font size="30">WELCOME</font>\n<font size="25">SONG LYRICS</font></string>
+
+
+    <string name="contact">imon kumar</string>
+    <string name="about">imon kumar\n<u><b>Email:</b></u>\n kumar.imonkumar@gmail.com\n
+        <u><b>Cell:</b></u>\n 01918-261734\n<u><b>Address:</b></u>\n Shymagonj Bazar\nGouripur, Mymensingh</string>
+
+
+    ........................................NAZRUL...................................
+
+    <string name="Shawon">শাওন রাতে যদি</string>
+    <string name="khelecho">খেলিছ এ বিশ্বলয়ে</string>
+    <string name="alga_koro">আলগা করো গো খোপার বাঁধন</string>
+
+
+    .......................................RABINDRA..................................
+
+    <string name="venge_mor">ভেঙে মোর ঘরের চাবি</string>
+    <string name="Khula_hawa">তোমার খোলা হাওয়া</string>
+    <string name="aso_he_aso">এসো হে এসো</string>
+    <string name="batayone">আমি চঞ্চল হে</string>
+    <string name="sham_rai">যাও হে শ্যাম রাই কুঞ্জে</string>
+    <string name="jkhn_porbena">যখন পড়বে না মোর</string>
+
+
+    .......................................DESH......................................
+    <string name="amar_sunar">আমার সোনার বাংলা</string>
+    <string name="dhono_dhanne">ধন ধান্য পুষ্প ভরা</string>
+    <string name="amy_gethe">আমায় গেঁথে দাওনা মাগো</string>
+    <string name="amr_desher">আমার দেশের মাটির গন্ধে</string>
+    <string name="amr_vaier">আমার ভাইয়ের রক্তে রাঙানো</string>
+    <string name="ai_podda">এই পদ্মা, এই মেঘনা</string>
+    <string name="ak_sagor">এক সাগর রক্তের বিনিময়ে</string>
+    <string name="akti_ban">একটি বাংলাদেশ তুমি জাগ্রত জনতার</string>
+    <string name="aktara">একতারা তুই দেশের কথা</string>
+    <string name="jonmo">জন্ম আমার ধন্য হলো মাগো</string>
+    <string name="joy_bangla">জয় বাংলা বাংলার জয়</string>
+    <string name="teerhara">তীর হারা এই ঢেউয়ের সাগর</string>
+    <string name="tumr_amrthikana">তোমার আমার ঠিকানা পদ্মা মেঘনা যমুনা</string>
+    <string name="nodir_majhi">নদীর মাঝি বলে এসো নবীন</string>
+    <string name="nongor">নোঙর তোল তোল সময় যে হোল হোল</string>
+    <string name="poddopata">পদ্ম পাতার পানি নয়</string>
+    <string name="purbo_digonte">পূর্ব দিগন্তে সূর্য উঠেছে</string>
+    <string name="protidin">প্রতিদিন তোমায় দেখে সূর্য রাগে</string>
+    <string name="prothombd">প্রথম বাংলাদেশ,আমার শেষ বাংলাদেশ</string>
+    <string name="majhinaw">মাঝি নাও ছাইড়া দে</string>
+    <string name="je_matir">যে মাটির বুকে ঘুমিয়ে আছে</string>
+    <string name="mojibor">শোনো একটি মুজিবরের থেকে</string>
+    <string name="sobkota">সবকটা জানালা খুলে দাওনা</string>
+    <string name="sobujer">সবুজের বুকে লাল</string>
+    <string name="salam">সালাম সালাম হাজার সালাম</string>
+    <string name="sundor_suborno">সুন্দর সুবর্ণ তারুন্য লাবন্য</string>
+    <string name="surjodoye">সূর্যদয়ে তুমি, সূর্যাস্তেও তুমি</string>
+    <string name="seirelline">সেই রেল লাইনের ধারে</string>
+    <string name="sona">সোনা সোনা সোনা</string>
+    <string name="hayreamr">হায় রে আমার মন মাতানো দেশ</string>
+    <string name="mora_akti">মোরা একটি ফুলকে</string>
+
+
+    ......................................ADHUNIK....................................
+
+    <string name="ay_khuku">আয় খুকু আয়</string>
+    <string name="sporser">স্পর্শের বাইরে তুমি</string>
+
+
+    ....................................CLASSCAL.....................................
+
+    <string name="ai_pda">এই পদ্মা, এই মেঘনা</string>
+    <string name="ai_pod">এই পদ্মা, এই মেঘনা</string>
+
+
+    ......................................BAUL.......................................
+    <string name="vromor_koiyo">ভ্রমর কইও গিয়া</string>
+    <string name="ami_kulhara">আমি কূলহারা কলংকিনী</string>
+    <string name="gangai">গান গাই আমার মনরে বুঝাই</string>
+    <string name="thakte_jodi">থাকতে যদি না পাই তোমায়</string>
+    <string name="bosonto">বসন্ত বাতাসে সইগো</string>
+
+
+    ....................................LALON........................................
+
+    <string name="aida">এই পদ্মা, এই মেঘনা</string>
+    <string name="aodda">এই পদ্মা, এই মেঘনা</string>
+
+
+    .....................................POLLI........................................
+    <string name="premer_mora">প্রেমের মরা জলে ডুবে না</string>
+    <string name="jodi_sundor">যদি সুন্দর একখান মুখ পাইতাম</string>
+
+
+    .....................................BAND.........................................
+
+    <string name="jm"><font size="30">মা</font>\n<font size="20">শিল্পী: জেমস</font></string>
+    <string name="alal1"><font size="30">আলাল ও দুলাল</font>\n<font size="20">শিল্পী: আজম খান</font></string>
+    <string name="firiyedaw1"><font size="30">ফিরিয়ে দাও</font>\n<font size="20">ব্যান্ড: মাইলস</font></string>
+
+
+    ........................................VAWAIYA.......................................
+
+    <string name="ai_pojdda">এই পদ্মা, এই মেঘনা</string>
+    <string name="ai_poddhna">এই পদ্মা, এই মেঘনা</string>
+
+
+    ....................................VATIYALI.......................................
+
+    <string name="nayer">নাইয়ারে নায়ের বাদাম তুইলা</string>
+    <string name="nao_chariya">নাও ছাড়িয়া দে</string>
+
+
+    .......................................JARI............................................
+
+    <string name="ai_poda">এই পদ্মা, এই মেঘনা</string>
+    <string name="ai_da">এই পদ্মা, এই মেঘনা</string>
+
+    ..................................SARI.............................................
+
+
+    <string name="ai_dda">এই পদ্মা, এই মেঘনা</string>
+    <string name="aipodda">এই পদ্মা, এই মেঘনা</string>
+
+
+    ................................HASON...............................................
+    <string name="lukebole">লোকে বলে বলেরে</string>
+    <string name="nesalagilo">নিশা লাগিলো রে</string>
+    <string name="tu_j_khoti">তুমি যে ক্ষতি করলা আমার</string>
+    <string name="agun_lagaya">আগুন লাগাইয়া দিলো কনে</string>
+    <string name="sonabondhe">সোনা বন্ধে আমারে</string>
+    <string name="matir_pinjira">মাটিরও পিঞ্জিরার মাঝে</string>
+
+    .................................NACHIKETA..........................................
+
+    <string name="apodda">এই পদ্মা, এই মেঘনা</string>
+    <string name="nilanjona">নীলাঞ্জনা</string>
+    <string name="sopno"> যখন সময় থমকে দাঁড়ায়</string>
+    <string name="antobvihin">  অন্তবিহীন পথ চলাই জীবন</string>
+    <string name="ambisn">অ্যাম্বিশন</string>
+    <string name="sorkari"> সরকারি কর্মচারী</string>
+    <string name="chur">চোর</string>
+    <string name="voy">ভয়</string>
+    <string name="ai_bes">এই বেশ ভাল আছি</string>
+
+    ...................................HINDI...........................................
+
+    <string name="bohot">বহত পেয়ার করতে হ্যায়</string>
+    <string name="odda">এই পদ্মা, এই মেঘনা</string>
+
+
+    ...................................ENGLISH........................................
+
+    <string name="aia">এই পদ্মা, এই মেঘনা</string>
+    <string name="podda">এই পদ্মা, এই মেঘনা</string>
+    <string name="title_activity_thakte_jodi">Thakte_jodi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>

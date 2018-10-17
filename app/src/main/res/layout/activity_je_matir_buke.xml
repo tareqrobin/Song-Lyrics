@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Je_matir_buke">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="398dp"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:gravity="center"
+                android:text="যে মাটির বুকে ঘুমিয়ে আছে"
+                android:textColor="@color/Brown"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+যে মাটির বুকে ঘুমিয়ে আছে
+লক্ষ মুক্তি সেনা
+দে না তোরা দে না
+সে মাটি আমার
+অঙ্গে মাখিয়ে দে না ।।
+
+রোজ এখানে সূর্য ওঠে
+আশার আলো নিয়ে
+হৃদয় আমার ধন্য যে হয়
+আলোর পরশ পেয়ে ।।
+
+সে মাটি ছেড়ে অন্য কোথাও
+যেতে বলিস না
+দে না তোরা দে না
+সে মাটি আমার
+অঙ্গে মাখিয়ে দে না।।
+
+রক্তে যাদের জেগেছিল
+স্বাধীনতার নিশা
+জীবন দিয়ে রেখে গেছে
+মুক্ত পথের দিশা
+সে পথ ছেড়ে ভিন্ন পথে
+যেতে বলিস না
+দে না তোরা দে না
+সে মাটি আমার
+অঙ্গে মাখিয়ে দে না।।
+
+যে মাটির বুকে ঘুমিয়ে আছে
+লক্ষ মুক্তি সেনা
+দে না তোরা দে না
+সে মাটি আমার
+অঙ্গে মাখিয়ে দে না ।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

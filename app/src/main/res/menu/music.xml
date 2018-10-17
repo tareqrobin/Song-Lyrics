@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/play"
+        app:showAsAction="always"
+        android:icon="@drawable/play"
+        android:title="Previous" />
+
+    <item
+        android:id="@+id/pause"
+        app:showAsAction="always"
+        android:icon="@drawable/pause"
+        android:title="Previous" />
+
+    <item
+        android:id="@+id/stop"
+        app:showAsAction="always"
+        android:icon="@drawable/stop"
+        android:title="Previous" />
+
+
+</menu>

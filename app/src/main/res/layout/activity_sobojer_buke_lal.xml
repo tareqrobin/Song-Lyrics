@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sobojer_buke_lal">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="সবুজের বুকে লাল"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+উৎপেতে থাকা শেয়াল শকুন
+উৎপেতে থাকা হায়না
+ধবংসের খেলা খেলে চলে যায় যারা
+মানুষের ভালো চায়না
+তাদের জন্য সদা জাগ্রত সতর্ক চোখ রাখা
+স্বাধীন দেশেই উড়বে যেনো স্বাধীন পতাকা ।।
+সবুজের বুকে লাল, সে তো উড়বেই চিরকাল ।।
+
+দোয়েলের গান ফসলের ঘ্রান রূপালী জোছনা রাত
+এলোমেলো করে দিতে চায় যদি আশুভ কালো হাত ।।
+বায়ান্ন আর একাত্তরের চেতনায় আছি মাখা
+স্বাধীন দেশেই উড়বে যেনো স্বাধীন পতাকা ।।
+সবুজের বুকে লাল, সে তো উড়বেই চিরকাল ।।
+
+হাতে হাত ধরে একসাথে লড়ে রুখবোই সন্ত্রাস
+এদেশের বুকে সুন্দর আর সত্যের হবে বাস ।।
+এ শপথ নিয়ে তাই আমাদের প্রস্তুত হয়ে থাকা
+স্বাধীন দেশেই উড়বে যেনো স্বাধীন পতাকা ।।
+সবুজের বুকে লাল, সে তো উড়বেই চিরকাল ।।
+
+উৎপেতে থাকা শেয়াল শকুন
+উৎপেতে থাকা হায়না
+ধবংসের খেলা খেলে চলে যায় যারা
+মানুষের ভালো চায়না
+তাদের জন্য সদা জাগ্রত সতর্ক চোখ রাখা
+স্বাধীন দেশেই উড়বে যেনো স্বাধীন পতাকা ।।
+সবুজের বুকে লাল, সে তো উড়বেই চিরকাল ।।
+" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

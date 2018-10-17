@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Jatgelo">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="385dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="    জাত গেল জাত গেল বলে\n
+    একি আজব কারখানা\n
+    সত্য কাজে কেউ নয় রাজ\n
+    সবি দেখি তা না-না-না।।\n\n
+    আসবার কালে কি জাত ছিলে\n
+    এসে তুমি কি জাত নিলে\n
+    কি জাত হবা যাবার কালে\n
+    সে কথা ভেবে বল না।।\n\n
+    ব্রাহ্মণ চন্ডাল চামার মুচি\n
+    এক জলেই সব হয় গো শুচি\n
+    দেখে শুনে হয় না রুচি\n
+    যমে তো কাকেও ছাড়বে না।।\n\n
+    গোপনে যে বেশ্যার ভাত খায়\n
+    তাতে ধর্মের কি ক্ষতি হয়।\n
+    লালন বলে জাত কারে কয়\n
+    এ ভ্রম তো গেল না।।\n\n" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/Silver"
+        android:textColor="@color/Brown"
+        android:text="জাত গেল জাত গেল বলে"
+        android:textSize="30dp" />
+
+
+
+
+
+</RelativeLayout>

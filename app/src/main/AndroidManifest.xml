@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="dctc.gp.songlyrics">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/music_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Home_Screen">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".Nazrul"
+            android:label="নজরুল সঙ্গীত" />
+        <activity
+            android:name=".Rabindra"
+            android:label="রবীন্দ্র সঙ্গীত" />
+        <activity
+            android:name=".Adhunik"
+            android:label="আধুনিক গান" />
+        <activity
+            android:name=".Baul"
+            android:label="বাউল গান" />
+        <activity
+            android:name=".Bhawaiya"
+            android:label="ভাওয়াইয়া গান" />
+        <activity
+            android:name=".Lalon"
+            android:label="লালন" />
+        <activity
+            android:name=".Band"
+            android:label="ব্যান্ড" />
+        <activity
+            android:name=".Polligiti"
+            android:label="পল্লীগীতি" />
+        <activity
+            android:name=".Jari"
+            android:label="জারি গান" />
+        <activity
+            android:name=".saree"
+            android:label="সারি গান" />
+        <activity
+            android:name=".Classical"
+            android:label="ক্লাসিক্যাল" />
+        <activity
+            android:name=".Hindi"
+            android:label="হিন্দি গান" />
+        <activity
+            android:name=".English"
+            android:label="ইংরেজী গান" />
+        <activity
+            android:name=".Bhatiyali"
+            android:label=" ভাটিয়ালি গান" />
+        <activity
+            android:name=".Desher"
+            android:label="দেশাত্মবোধক গান" />
+        <activity
+            android:name=".Shawon_o_rate"
+            android:label="শাওন রাতে যদি" />
+        <activity
+            android:name=".Amar_shonar"
+            android:label="আমার সোনার বাংলা" />
+        <activity android:name=".Dhono_dhanne" />
+        <activity android:name=".Amay_gethe" />
+        <activity android:name=".Matir_gondhe" />
+        <activity android:name=".Amar_vaiyer" />
+        <activity android:name=".Ai_padma" />
+        <activity android:name=".Ak_sagar_rokter" />
+        <activity android:name=".Akti_bangladesh" />
+        <activity android:name=".Aktara_tui" />
+        <activity android:name=".Jonnmo_amar" />
+        <activity android:name=".Joy_bangla" />
+        <activity android:name=".Teer_hara" />
+        <activity android:name=".Tomar_amar" />
+        <activity android:name=".Nodir_majhi" />
+        <activity android:name=".Nongor_tolo" />
+        <activity android:name=".Podmo_patar" />
+        <activity android:name=".Purbo_digonte" />
+        <activity android:name=".Protidin_tumay" />
+        <activity android:name=".Prothom_bangladesh" />
+        <activity android:name=".Majhi_nao" />
+        <activity android:name=".Je_matir_buke" />
+        <activity android:name=".Sono_akti_mojibor" />
+        <activity android:name=".Sobkota_janala" />
+        <activity android:name=".Sobojer_buke_lal" />
+        <activity android:name=".Salam_salam" />
+        <activity android:name=".Sundor_suborno" />
+        <activity android:name=".Surjodoye_tumi" />
+        <activity android:name=".Sei_rail_line" />
+        <activity android:name=".Sona_sona" />
+        <activity android:name=".Hayre_amar" />
+        <activity android:name=".Khelicho_a_bismo" />
+        <activity android:name=".Aalga_koro" />
+        <activity android:name=".Tumi_sundor" />
+        <activity android:name=".Dur_dip" />
+        <activity android:name=".Ai_rangamati" />
+        <activity android:name=".Nayan_vora_jol" />
+        <activity android:name=".Mor_priya" />
+        <activity android:name=".Harano_hiyar" />
+        <activity android:name=".Cheyo_na" />
+        <activity android:name=".Tumi_amar" />
+        <activity android:name=".Mora_ekti" />
+        <activity android:name=".Jatgelo" />
+        <activity android:name=".Dhono" />
+        <activity android:name=".Milon" />
+        <activity android:name=".Contact" />
+        <activity android:name=".Ogo_bristy" />
+        <activity android:name=".Bridhashrom" />
+        <activity android:name=".Nilanjona" />
+        <activity android:name=".Lalfite" />
+        <activity android:name=".Sonaliprantore" />
+        <activity android:name=".Akdin_sopner_din" />
+        <activity android:name=".Tumi_asbe_bole" />
+        <activity android:name=".Anireban" />
+        <activity android:name=".Amar_aponar_cheye" />
+        <activity android:name=".Bhalobese_sokhi" />
+        <activity android:name=".Aha_aji_a_bosonte" />
+        <activity android:name=".Jodi_mon_kade" />
+        <activity android:name=".Eso_eso_amar_ghore" />
+        <activity android:name=".Bondhu_tumar_pother" />
+        <activity android:name=".Atosur_r_ato_gan" />
+        <activity android:name=".Tumi_robe_nirobe" />
+        <activity android:name=".Khelaghor_badhte" />
+        <activity android:name=".Jeno_kichhu_mone_korona" />
+        <activity android:name=".Jodi_tor_dak_shune" />
+        <activity android:name=".Sokhi_vabona_kahare_bole" />
+        <activity android:name=".Ke_prothom_kachhe_asechhi" />
+        <activity android:name=".Tumi_je_amar" />
+        <activity android:name=".Amay_proshno_kore" />
+        <activity android:name=".Nachiketa" />
+        <activity android:name=".Radhe" />
+        <activity
+            android:name=".Vengemor"
+            android:label="ভেঙে মোর" />
+        <activity android:name=".Hason_Raza" />
+        <activity android:name=".Jemsmaa" />
+        <activity android:name=".Alal" />
+        <activity android:name=".Firiye_daw" />
+        <activity android:name=".Sporser_baire" />
+        <activity android:name=".Nayer" />
+        <activity android:name=".Nao_chariya" />
+        <activity android:name=".Premer_mora" />
+        <activity android:name=".Jodi_sundor" />
+        <activity android:name=".Luke_bole" />
+        <activity android:name=".Nesa_lagilo" />
+        <activity android:name=".Sona_bondhe" />
+        <activity android:name=".Agun_lagaya" />
+        <activity android:name=".Tumi_j_khoti" />
+        <activity android:name=".Matir_pinjira" />
+        <activity android:name=".Vromor_koiyo" />
+        <activity android:name=".Ay_khuku" />
+        <activity android:name=".Khula_hawa" />
+        <activity android:name=".Bohot_payeer" />
+        <activity android:name=".Voy" />
+        <activity android:name=".Chur" />
+        <activity android:name=".Ambisn" />
+        <activity android:name=".Ai_bes" />
+        <activity android:name=".Sarkari" />
+        <activity android:name=".Jkhn_Somoy" />
+        <activity android:name=".Antobihin" />
+        <activity android:name=".Kulhara" />
+        <activity android:name=".Gan_gai" />
+        <activity android:name=".Bosonto_batase" />
+    </application>
+
+</manifest>

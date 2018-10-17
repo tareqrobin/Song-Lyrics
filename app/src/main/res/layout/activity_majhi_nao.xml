@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Majhi_nao">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="মাঝি নাও ছাইড়া দে"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="398dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+মাঝি নাও ছাইড়া দে
+ও মাঝি পাল উড়াইয়া দে
+গা-রে মাঝি গা কোন গান।।
+
+একদিন তোর নাও মাঝি
+ভাসবে না রে নীল নদীতে রে
+সেদিন তোর গান মাঝি
+শুনবে না কেউ গাইবে না বলে-
+ও মাঝি রে, ও কলের নৌকা কাইরা নিবে সুর।।
+
+যন্ত্রের নাও ধোঁয়া ছাইড়া
+আঁধার করল নীল আকাশটারে, ও মাঝি রে-
+সেদিন তোর নাও মাঝি
+শূণ্য হয়ে থাকবে রে পরে-
+ও মাঝি রে-
+ও চল রে মাঝি যাইরে বহু দূর।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

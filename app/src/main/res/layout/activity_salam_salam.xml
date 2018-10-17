@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Salam_salam">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="সালাম সালাম হাজার সালাম"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+সালাম সালাম হাজার সালাম
+সকল শহীদ স্মরণে,
+আমার হৃদয় রেখে যেতে চাই
+তাদের স্মৃতির চরণে।।
+
+মায়ের ভাষায় কথা বলাতে
+স্বাধীন আশায় পথ চলাতে
+হাসিমুখে যারা দিয়ে গেল প্রাণ
+সেই স্মৃতি নিয়ে গেয়ে যাই গান
+তাদের বিজয় মরণে,
+আমার হৃদয় রেখে যেতে চাই
+তাদের স্মৃতির চরণে।।
+
+ভাইয়ের বুকের রক্তে আজিকে
+রক্ত মশাল জ্বলে দিকে দিকে
+সংগ্রামী আজ মহাজনতা
+কন্ঠে তাদের নব বারতা
+শহীদ ভাইয়ের স্মরণে,
+আমার হৃদয় রেখে যেতে চাই
+তাদের স্মৃতির চরণে।।
+
+বাংলাদেশের লাখো বাঙালি
+জয়ের নেশায় আনে ফুলের ডালি
+আলোর দেয়ালি ঘরে ঘরে জ্বালি
+ঘুচিয়ে মনের আঁধার কালি।
+শহীদ স্মৃতি বরণে,
+আমার হৃদয় রেখে যেতে চাই
+তাদের স্মৃতির চরণে।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

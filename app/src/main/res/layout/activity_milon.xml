@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Milon">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="378dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:text="মিলন হবে কত দিনে\n
+আমার মনের মানুষের সনে।।\n\n
+চাতক প্রায় অহর্নিশি\n
+চেয়ে আছি কালো শশী\n
+হব বলে চরণ-দাসী\n
+ও তা হয় না কপাল-গুণে।।\n\n
+মেঘের বিদ্যুৎ মেঘেই যেমন\n
+লুকালে না পাই অন্বেষণ\n
+কালারে হারায়ে তেমন\n
+ঐ রূপ হেরি এ দর্পণে।।\n\n
+যখন ও-রূপ স্মরণ হয়\n
+থাকে না লোক-লজ্জার ভয়-\n
+লালন ফকির ভেবে বলে সদাই\n
+(ঐ) প্রেম যে করে সে জানে।।\n\n"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/Silver"
+        android:textColor="@color/Brown"
+        android:text="মিলন হবে কত দিনে"
+        android:textSize="30dp" />
+
+
+
+
+
+
+</RelativeLayout>

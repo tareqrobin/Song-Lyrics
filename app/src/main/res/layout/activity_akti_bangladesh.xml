@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Akti_bangladesh">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="একটি বাংলাদেশ"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="388dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="একটি বাংলাদেশ তুমি জাগ্রত জনতার\n
+সারা বিশ্বের বিস্ময় তুমি আমার অহংকার।\n\n
+
+তোমার স্বাধীনতা গৌরব সৌরভে\n
+এনেছে আমার প্রানের সূর্যে রৌদ্রেরও সজীবতা\n
+দিয়েছে সোনালী সুখী জীবনের দৃপ্ত অঙ্গীকার।\n\n
+
+সারা বিশ্বের বিস্ময় তুমি আমার অহংকার।\n\n
+
+তোমার ছায়া ঢাকা রৌদ্রেরেরও প্রান্তরে\n
+রেখেছি অতল অমর বর্নে মুক্তির স্নেহ মাখা\n
+জেনেছি তুমি জীবন মরণে বিমুগ্ধ চেতনার।\n
+
+সারা বিশ্বের বিস্ময় তুমি আমার অহংকার।\n\n" />
+
+        </LinearLayout>
+</HorizontalScrollView>
+    </ScrollView>
+
+
+
+</RelativeLayout>

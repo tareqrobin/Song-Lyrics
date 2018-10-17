@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Prothom_bangladesh">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="প্রথম বাংলাদেশ,আমার শেষ বাংলাদেশ"
+                android:textSize="25dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="388dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+প্রথম বাংলাদেশ,আমার শেষ বাংলাদেশ,
+জীবন বাংলাদেশ আমার মরণ বাংলাদেশ,
+বাংলাদেশ, বাংলাদেশ, বাংলাদেশ।।
+
+আমার আঙিনায় ছড়ানো বিছানো,
+সোনা সোনা ধুলিকণা,
+মাটির মমতায় ঘাস ফসলে,
+সবুজের আল্পনা,
+আমার তাতেই হয়েছে
+স্বপ্নের বীজবোনা।।
+
+অরূপ জোছনায়, সাজানো রাঙানো
+ঝিলিমিলি চাঁদ তলে
+নিবিড় মমরায়, পিউ পাপিয়া
+হৃদয়ের দ্বার খোলে,
+আমি তাতেই রেখেছি
+স্বপ্নের দ্বীপ জ্বেলে।।
+" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

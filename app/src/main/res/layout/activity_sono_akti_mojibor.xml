@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sono_akti_mojibor">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="শোনো, একটি মুজিবরের থেকে"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+শোনো, একটি মুজিবরের থেকে
+লক্ষ মুজিবরের কন্ঠস্বরের ধ্বনি, প্রতিধ্বনি
+আকাশে বাতাসে ওঠে রণি।
+বাংলাদেশ আমার বাংলাদেশ।।
+
+সেই সবুজের বুক চেরা মেঠো পথে,
+আবার এসে ফিরে যাবো আমার
+হারানো বাংলাকে আবার তো ফিরে পাবো।
+শিল্পে কাব্যে কোথায় আছে হায় রে
+এমন সোনার দেশ।
+
+শোনো, একটি মুজিবরের থেকে
+লক্ষ মুজিবরের কন্ঠস্বরের ধ্বনি, প্রতিধ্বনি
+আকাশে বাতাসে ওঠে রণি।
+বাংলাদেশ আমার বাংলাদেশ।।
+
+বিশ্বকবির সোনার বাংলা, নজরুলের বাংলাদেশ,
+জীবনানন্দের রূপসী বাংলা
+রূপের যে তার নেইকো শেষ, বাংলাদেশ।.
+
+‘জয় বাংলা’ বলতে মনরে আমার এখনো কেন ভাবো,
+আমার হারানো বাংলাকে আবার তো ফিরে পাবো,
+অন্ধকারে পুবাকাশে উঠবে আবার দিনমণি।।
+
+শোনো, একটি মুজিবরের থেকে
+লক্ষ মুজিবরের কন্ঠস্বরের ধ্বনি, প্রতিধ্বনি
+আকাশে বাতাসে ওঠে রণি।
+বাংলাদেশ আমার বাংলাদেশ।।
+" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

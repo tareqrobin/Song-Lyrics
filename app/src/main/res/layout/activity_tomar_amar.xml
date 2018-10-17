@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tomar_amar">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="তোমার আমার ঠিকানা"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="388dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="
+
+তোমার আমার ঠিকানা পদ্মা মেঘনা যমুনা
+গঙ্গার স্রোত ধরে পেয়েছি চলার নিশানা।।
+
+কন্ঠের সুর কোনও মানে না ভাষা
+হৃদয়ের ভাষাতেই মেটে পিপাসা
+সাত মহাসাগরের উজানে ভেসে
+আমরা যেখানে থামি —-সেই সীমানা।।
+
+যেখানে কান্না আর রক্ত মেঘে
+আঁধারের বাঁধ ভেঙে সূর্য ওঠে আকাশে আবার
+সেখানে নিশানা আছে এগিয়ে যাবার।
+
+যখন আখের স্বাদ নোনতা লাগে
+লবঙ্গ বনে ঝড়ের হাওয়ারা জাগে
+এক বুক ভালবাসা উজাড় করা
+যেখানে ফসল ফলে প্রাণের সোনা।।
+" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>

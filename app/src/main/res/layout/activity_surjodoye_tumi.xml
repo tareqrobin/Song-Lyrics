@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Surjodoye_tumi">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Silver"
+                android:gravity="center"
+                android:text="সূর্যদয়ে তুমি, সূর্যাস্তেও তুমি"
+                android:textColor="@color/Brown"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+সূর্যদয়ে তুমি, সূর্যাস্তেও তুমি
+ও আমার বাংলাদেশ, প্রিয় জন্মভূমি।।
+
+জলসিঁড়ি নদীর তীরে,
+তোর খুশির কাঁকন যেন বাজে
+ও—কাশবনে ফুলে ফুলে,
+তোর মধুর বাসর যেন সাজে
+তোর একতারা হায়,
+করে বাউল আমায় সুরে সুরে।।
+
+আঁকাবাঁকা মেঠো পথে
+তোর রাখাল হৃদয় যেন হাসে
+ও—পদ্ম পাতা, দীঘির ঝিলে
+তোর সোনার স্বপন যেন ভাসে
+তোর এই আঙিনায়
+ধরে রাখিস আমায় চিরতরে।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>

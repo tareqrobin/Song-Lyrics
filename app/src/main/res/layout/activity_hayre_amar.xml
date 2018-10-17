@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hayre_amar">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="হায় রে আমার মন মাতানো দেশ"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="388dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+হায় রে আমার মন মাতানো দেশ,
+হায় রে আমার সোনা ফলা মাটি।
+রূপ দেখে তোর কেন আমার নয়ন ভরে না
+তোরে এতো ভালোবাসি তবু পরান ভরে না।।
+
+যখন তোর ওই গাঁয়ের ঘরে
+ঘুঘু ডাকা নিঝুম কোনো দুপুরে।
+হংস মিথুন ভেসে বেড়ায়
+শাপলা ফোটা তলতলে ওই পুকুরে।
+
+নয়ন পাখি দিশা হারায়
+প্রজাপতির পাখায় হারায়
+তাদের কথা মনে ধরে না।।
+
+যখন তোর ওই আকাশ নীলে
+পাল তুলে যায়, সাত সাগরের পশরা।
+নদীর বুকে হাতছানি দেয়,
+লক্ষ ছেলে, মানিক-জ্বালা ইশারা।
+
+হায় রে আমার বুকের মাঝে,
+হাজার তারের বীণা বাজে
+অবাক চোখে, পলক পড়ে না।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+</HorizontalScrollView>
+    </ScrollView>
+
+
+
+</RelativeLayout>

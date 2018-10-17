@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Amay_gethe">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="60dp"
+                android:gravity="center"
+                android:text="আমায় গেঁথে দাওনা মাগো\n\n
+    একটা পলাশ ফুলের মালা\n\n
+    আমি জনম জনম রাখব ধরে\n\n
+    ভাই হারানোর জ্বালা\n\n\n
+
+    আসি বলে আমায় ফেলে\n\n
+    সেই যে গেল ভাই\n\n
+    তিন ভুবনের কোথায় গেলে\n\n
+    ভাইয়ের দেখা পাই\n\n
+    দেবো তারই সমাধিতে আমি\n\n
+    তোমরা হাতের মালা\n\n
+    ভাই হারানোর জ্বালা\n\n\n
+
+    তারই শোকে কোকিল ডাকে\n\n
+    ফোটে বনের ফুল\n\n
+    ফুল পাবনের মধুর তিথী\n\n
+    কেঁদে হয় আকুল\n\n
+    আজও তারই স্মরন করে সবাই\n\n
+    সাজাই ফুলের ডালা\n\n
+    ভাই হারানোর জ্বালা\n\n\n
+
+    আমায় গেঁথে দাওনা মাগো\n\n
+    একটা পলাশ ফুলের মালা\n\n
+    আমি জনম জনম রাখব ধরে\n\n
+    ভাই হারানোর জ্বালা\n\n"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+</HorizontalScrollView>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/Silver"
+        android:gravity="center"
+        android:text="আমায় গেঁথে দাওনা মাগো"
+        android:textColor="@color/Brown"
+        android:textSize="30dp" />
+</RelativeLayout>
+
+
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sundor_suborno">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/Silver"
+                android:textColor="@color/Brown"
+                android:text="সুন্দর সুবর্ণ তারুন্য লাবন্য"
+                android:textSize="30dp" />
+
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="407dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="
+
+সুন্দর সুবর্ণ তারুন্য লাবন্য
+অপূর্ব রূপসী রূপেতে অনন্য।
+
+আমার দু’চোখ ভরা স্বপ্ন
+ও দেশ তোমারই জন্য।।
+
+থাকবে নাতো দুঃখ দারিদ্র
+বিভেদ-বেদনা-ক্রন্দন।।
+
+প্রতিটি ঘরে একই প্রশান্তি
+একই সুখের স্পন্দন।।
+
+তোমার জন্য হবো দুরন্ত
+তোমার জন্য শান্ত
+প্রহরী হয়ে দেব পাহারা
+যেথায় তোমার সীমান্ত।।
+"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
